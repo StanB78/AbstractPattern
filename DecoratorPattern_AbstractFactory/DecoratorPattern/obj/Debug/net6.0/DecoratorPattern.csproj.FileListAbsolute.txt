@@ -1,0 +1,14 @@
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\Stan\Downloads\DecoratorPattern_AbstractFactory\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
